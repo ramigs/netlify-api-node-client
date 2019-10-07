@@ -20,6 +20,9 @@
   "dependencies": {
     "dotenv": "^8.1.0",
     "github-api": "^3.3.0",
-    "netlify": "^2.4.8"
+    "mitm": "^1.7.0",
+    "netlify": "^2.4.8",
+    "nock": "^11.3.5",
+    "requirejs": "^2.3.6"
   }
 }
